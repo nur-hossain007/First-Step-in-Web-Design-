@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+        <div class="main">
+            <!-- row1 start from here -->
+            <div class="row1">
+                <div class="row1-col1">
+                    <div class="row1-col1-row1"></div>
+                    <div class="row1-col1-row2"></div>
+                </div>
+                <div class="row1-col2"></div>
+            </div>
+            <!-- row2 start from here -->
+            <div class="row2">
+                <div class="row2-col1"></div>
+                <div class="row2-col2"></div>
+                <div class="row2-col3"></div>
+            </div>
+
+            <!-- row3 start from here -->
+            <div class="row3"></div>
+        </div>
+    </body>
+</html>
