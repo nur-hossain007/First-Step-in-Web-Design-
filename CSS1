@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="css/style.css">
+        <style>
+            h2{
+                color: green ;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 style="color:red">Lorem ipsum dolor sit amet.</h1>
+        <h2>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</h2>
+        <h3>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magnam, provident!</h3>
+
+        <h3 id="one">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repudiandae rem cumque, velit illum alias accusantium unde aliquam culpa! Neque, pariatur?</h3>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione dolore quibusdam molestias et sint est saepe ad dicta ab dolorem!</p>
+
+        <div>
+
+        </div>
+        <h4>Lorem ipsum dolor sit amet consectetur adipisicing.</h4>
+        <h5>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</h5>
+    </body>
+</html>
